@@ -9,6 +9,8 @@ This project is a simple email authentication system built with Node.js, Express
 
 ## Project Structure 🗂️
 
+<img width="1500" height="1500" alt="diagram" src="https://github.com/user-attachments/assets/b66929dd-fc9d-4fc5-a51b-0c89225e1f24" />
+
 ## Installation 🛠️
 
 1. Clone the repository:
